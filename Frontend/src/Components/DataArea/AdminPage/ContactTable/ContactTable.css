@@ -1,0 +1,32 @@
+
+
+.ContactTable > table{
+	margin: auto;
+}
+
+.ContactTable > table,
+.ContactTable th,
+.ContactTable > tr,
+.ContactTable tr > td{
+    border: 1px solid rgb(255, 190, 201);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.ContactTable th {
+    background-color: rgb(243, 157, 174);
+}
+
+.ContactTable tr:nth-child(even) {
+    background-color:rgb(191, 191, 191)
+}
+
+.ContactTable tr:nth-child(odd) {
+    background-color: rgb(232, 232, 232);
+}
+
+.ContactTable > button{
+	margin: auto;
+    padding: auto;
+    text-align: center;
+}

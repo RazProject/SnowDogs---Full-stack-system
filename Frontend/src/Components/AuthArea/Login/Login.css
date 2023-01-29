@@ -1,0 +1,74 @@
+
+.Login{
+    background-color: gray;
+    min-height: 100%;
+    border-radius: 5px;
+    padding: 20px;
+}
+       
+
+    .Login label{
+        width: 100%;
+        margin: auto;
+        /* border: 1px solid; */
+        /* border-radius: 20px; */
+        /* background-color: rgb(229, 229, 229); */
+        text-align: center;
+        margin-bottom: 20px;
+    
+    }
+
+    .Login img{
+        width: 20%;
+        margin: auto;
+        /* border: 1px solid; */
+        /* border-radius: 20px; */
+        /* background-color: rgb(229, 229, 229); */
+        text-align: center;
+        margin-bottom: 20px;
+    
+    }
+    
+    .Login input{
+        border: 3px solid;
+        border-radius: 20px;
+        background-color: rgb(172, 172, 172);
+        text-align: center;
+        color:rgb(0, 0, 0);
+    
+    }
+    
+    
+    .Login button {
+        background-color: rgb(39, 38, 38);
+        color:rgb(47, 166, 29);
+        width: 40%;
+        border-radius: 20px;
+    }
+    
+    .Login button:hover {
+        background-color: rgb(12, 217, 40);
+        color:whitesmoke;
+    }
+    
+    
+    .Login input{
+        width: 65%;
+        margin-bottom: 20px;
+        box-sizing: border-box;
+    }
+    
+    
+    .Login form {
+      width: 40%;
+        height: 100%;
+        min-height: 400px;
+        /* text-align: left; */
+        margin: auto;
+        border: 1px solid;
+        padding: 20px;
+        border-radius: 20px;
+        background-color: rgb(204, 204, 204);
+    }
+    
+ 

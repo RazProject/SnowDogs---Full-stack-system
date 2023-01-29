@@ -1,0 +1,2412 @@
+2.12.2022, 2:14:24 	 ER_BAD_DB_ERROR: Unknown database ' db-snowdogs'
+----------------------------
+2.12.2022, 2:15:01 	 ER_BAD_DB_ERROR: Unknown database ' db-snowdogs'
+----------------------------
+2.12.2022, 2:15:03 	 ER_BAD_DB_ERROR: Unknown database ' db-snowdogs'
+----------------------------
+2.12.2022, 2:15:04 	 ER_BAD_DB_ERROR: Unknown database ' db-snowdogs'
+----------------------------
+2.12.2022, 2:15:28 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''
+    Description AS description, 
+    vacations.ResortId, 
+    vacations.Pho...' at line 1
+----------------------------
+2.12.2022, 2:16:17 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''
+    Description AS description, 
+    vacations.ResortId, 
+    vacations.Pho...' at line 1
+----------------------------
+2.12.2022, 15:34:55 	 Route /api/vacations/3 not exist
+----------------------------
+2.12.2022, 15:35:09 	 Route /api/vacations/3 not exist
+----------------------------
+2.12.2022, 15:35:10 	 Route /api/vacations/3 not exist
+----------------------------
+2.12.2022, 15:35:11 	 Route /api/vacations/3 not exist
+----------------------------
+2.12.2022, 15:35:27 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:35:47 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:35:49 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:35:50 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:35:52 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:57:08 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 15:59:18 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 16:00:48 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 16:01:02 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 16:01:42 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 16:02:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.12.2022, 16:16:23 	 Route /api/vacations/4 not exist
+----------------------------
+2.12.2022, 16:16:28 	 ER_NO_SUCH_TABLE: Table 'db-snowdogs.gifts' doesn't exist
+----------------------------
+2.12.2022, 16:17:17 	 ER_NO_SUCH_TABLE: Table 'db-snowdogs.gifts' doesn't exist
+----------------------------
+2.12.2022, 16:17:19 	 ER_NO_SUCH_TABLE: Table 'db-snowdogs.gifts' doesn't exist
+----------------------------
+2.12.2022, 16:22:12 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN 
+        VALUES(
+            DEFAULT,
+            'קורס הדרכה ...' at line 2
+----------------------------
+2.12.2022, 17:48:31 	 Route /api/vacations2 not exist
+----------------------------
+2.12.2022, 17:55:33 	 Route /api/vacations2 not exist
+----------------------------
+2.12.2022, 18:15:35 	 Route /api/vacations1 not exist
+----------------------------
+2.12.2022, 18:15:58 	 Route /api/vacations3 not exist
+----------------------------
+2.12.2022, 18:17:27 	 Route /api/vacations2 not exist
+----------------------------
+3.12.2022, 20:33:04 	 Route /api/resorts not exist
+----------------------------
+4.12.2022, 22:14:06 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:14:06 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:14:06 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:14:06 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:16:55 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:16:55 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:16:55 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:16:55 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+4.12.2022, 22:47:23 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+4.12.2022, 22:57:40 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+4.12.2022, 23:06:03 	 alert is not defined
+----------------------------
+7.12.2022, 22:08:44 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+7.12.2022, 22:08:45 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+15.12.2022, 17:53:12 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+15.12.2022, 17:53:12 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+19.12.2022, 13:32:33 	 Route /api/placesaroundme not exist
+----------------------------
+20.12.2022, 16:28:11 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:28:14 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:29:45 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:29:45 	 Route /favicon.ico not exist
+----------------------------
+20.12.2022, 16:29:53 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:31:11 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:31:11 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:31:16 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:31:16 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:32:46 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:32:46 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 16:33:49 	 ER_BAD_FIELD_ERROR: Unknown column 'vacations.PhotoId' in 'field list'
+----------------------------
+20.12.2022, 17:09:18 	 ENOENT: no such file or directory, open 'C:\Users\user\Desktop\SnowDogs\1-assets\images\imageToUpload.jpg'
+----------------------------
+20.12.2022, 17:28:03 	 The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Array
+----------------------------
+20.12.2022, 17:28:04 	 The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Array
+----------------------------
+20.12.2022, 21:26:13 	 Route / not exist
+----------------------------
+21.12.2022, 14:01:48 	 Route /api/placesaroundme not exist
+----------------------------
+21.12.2022, 16:10:42 	 ER_BAD_FIELD_ERROR: Unknown column 'ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:10:45 	 ER_BAD_FIELD_ERROR: Unknown column 'ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:15:08 	 ER_BAD_FIELD_ERROR: Unknown column 'ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:15:10 	 ER_BAD_FIELD_ERROR: Unknown column 'ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:15:11 	 ER_BAD_FIELD_ERROR: Unknown column 'ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:16:19 	 ER_BAD_FIELD_ERROR: Unknown column 'resorts.ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:16:22 	 ER_BAD_FIELD_ERROR: Unknown column 'resorts.ResortLoaction' in 'field list'
+----------------------------
+21.12.2022, 16:17:35 	 Route /api/vacayions/2 not exist
+----------------------------
+21.12.2022, 16:21:27 	 Route /api/vacations/2 not exist
+----------------------------
+21.12.2022, 16:21:34 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+25.12.2022, 15:48:22 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+25.12.2022, 15:48:32 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+25.12.2022, 15:48:33 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+25.12.2022, 15:49:15 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''name'
+        )' at line 9
+----------------------------
+25.12.2022, 15:49:17 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''name'
+        )' at line 9
+----------------------------
+25.12.2022, 15:51:26 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''name'
+    )' at line 8
+----------------------------
+25.12.2022, 15:52:30 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''name'
+    )' at line 9
+----------------------------
+25.12.2022, 15:53:55 	 Route /api/users not exist
+----------------------------
+25.12.2022, 15:58:22 	 Route /api/contact not exist
+----------------------------
+25.12.2022, 15:58:28 	 Route /api/contact not exist
+----------------------------
+25.12.2022, 15:58:53 	 Route /api/contacts not exist
+----------------------------
+25.12.2022, 16:06:22 	 Route /api/users not exist
+----------------------------
+25.12.2022, 16:06:23 	 Route /api/users not exist
+----------------------------
+25.12.2022, 16:07:10 	 ER_BAD_FIELD_ERROR: Unknown column 'Id' in 'field list'
+----------------------------
+25.12.2022, 16:07:11 	 ER_BAD_FIELD_ERROR: Unknown column 'Id' in 'field list'
+----------------------------
+25.12.2022, 16:07:12 	 ER_BAD_FIELD_ERROR: Unknown column 'Id' in 'field list'
+----------------------------
+25.12.2022, 16:07:13 	 ER_BAD_FIELD_ERROR: Unknown column 'Id' in 'field list'
+----------------------------
+25.12.2022, 16:19:55 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:19:56 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:19:57 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:21:51 	 Route /api/userVacations/ not exist
+----------------------------
+25.12.2022, 16:22:02 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:22:03 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'startDate' in 'order clause'
+----------------------------
+25.12.2022, 16:37:15 	 Route /api/userVacations not exist
+----------------------------
+25.12.2022, 16:40:03 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DISTINCT
+            V.*,
+            EXISTS(
+                SELECT * FROM f...' at line 2
+----------------------------
+25.12.2022, 16:40:05 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DISTINCT
+            V.*,
+            EXISTS(
+                SELECT * FROM f...' at line 2
+----------------------------
+25.12.2022, 16:40:06 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DISTINCT
+            V.*,
+            EXISTS(
+                SELECT * FROM f...' at line 2
+----------------------------
+25.12.2022, 16:40:59 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*),
+            EXISTS(
+                SELECT * FROM followers WHERE vacatio...' at line 2
+----------------------------
+25.12.2022, 16:41:00 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*),
+            EXISTS(
+                SELECT * FROM followers WHERE vacatio...' at line 2
+----------------------------
+25.12.2022, 16:41:01 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*),
+            EXISTS(
+                SELECT * FROM followers WHERE vacatio...' at line 2
+----------------------------
+25.12.2022, 16:41:02 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*),
+            EXISTS(
+                SELECT * FROM followers WHERE vacatio...' at line 2
+----------------------------
+25.12.2022, 16:41:03 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*),
+            EXISTS(
+                SELECT * FROM followers WHERE vacatio...' at line 2
+----------------------------
+25.12.2022, 16:45:47 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXISTS(
+                SELECT * FROM followers WHERE vacationId = F.vacation...' at line 4
+----------------------------
+25.12.2022, 16:50:45 	 Route /api/userVacations not exist
+----------------------------
+26.12.2022, 14:46:12 	 Route /api/auth/login/ not exist
+----------------------------
+26.12.2022, 14:46:23 	 Route /api/auth/login/ not exist
+----------------------------
+26.12.2022, 15:57:21 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',
+                '2022-12-29',
+                '2022-12-31',
+              ...' at line 4
+----------------------------
+26.12.2022, 15:57:25 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',
+                '2022-12-29',
+                '2022-12-31',
+              ...' at line 4
+----------------------------
+26.12.2022, 15:57:30 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '',
+                '2022-12-29',
+                '2022-12-31',
+              ...' at line 4
+----------------------------
+26.12.2022, 15:58:22 	 Route /api/contact not exist
+----------------------------
+26.12.2022, 15:58:24 	 Route /api/contact not exist
+----------------------------
+26.12.2022, 16:48:35 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON Username = "WizleyKing" && Password = "Ron123"' at line 3
+----------------------------
+26.12.2022, 16:48:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON Username = "WizleyKing" && Password = "Ron123"' at line 3
+----------------------------
+27.12.2022, 1:27:58 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:27:59 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:28:01 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:28:03 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:58:57 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:58:58 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:59:05 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:59:06 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:59:07 	 Incorrect username or password
+----------------------------
+27.12.2022, 1:59:08 	 Incorrect username or password
+----------------------------
+27.12.2022, 13:52:46 	 Incorrect username or password
+----------------------------
+27.12.2022, 13:52:48 	 Incorrect username or password
+----------------------------
+27.12.2022, 13:52:57 	 Incorrect username or password
+----------------------------
+27.12.2022, 13:52:57 	 Incorrect username or password
+----------------------------
+27.12.2022, 15:53:18 	 Incorrect username or password
+----------------------------
+27.12.2022, 16:27:07 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:13:30 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:13:32 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:13:42 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:05 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:06 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:21 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:22 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:34 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:14:35 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:15:46 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:15:50 	 Incorrect username or password
+----------------------------
+27.12.2022, 17:15:58 	 Incorrect username or password
+----------------------------
+27.12.2022, 18:07:41 	 Incorrect username or password
+----------------------------
+27.12.2022, 18:07:42 	 Incorrect username or password
+----------------------------
+27.12.2022, 18:07:45 	 Incorrect username or password
+----------------------------
+27.12.2022, 18:55:42 	 Incorrect username or password
+----------------------------
+27.12.2022, 18:55:53 	 Incorrect username or password
+----------------------------
+5.1.2023, 15:23:16 	 Incorrect username or password
+----------------------------
+5.1.2023, 15:23:20 	 Incorrect username or password
+----------------------------
+5.1.2023, 15:35:01 	 Incorrect username or password
+----------------------------
+8.1.2023, 15:53:10 	 Route /api/theaters not exist
+----------------------------
+8.1.2023, 15:53:37 	 Route /api/theaters not exist
+----------------------------
+11.1.2023, 21:25:22 	 connect ECONNREFUSED 127.0.0.1:3306
+----------------------------
+15.1.2023, 17:44:30 	 ER_NON_UNIQ_ERROR: Column 'vacationId' in field list is ambiguous
+----------------------------
+15.1.2023, 17:44:31 	 ER_NON_UNIQ_ERROR: Column 'vacationId' in field list is ambiguous
+----------------------------
+15.1.2023, 17:44:48 	 ER_NON_UNIQ_ERROR: Column 'VacationId' in field list is ambiguous
+----------------------------
+15.1.2023, 17:44:49 	 ER_NON_UNIQ_ERROR: Column 'VacationId' in field list is ambiguous
+----------------------------
+15.1.2023, 17:44:49 	 ER_NON_UNIQ_ERROR: Column 'VacationId' in field list is ambiguous
+----------------------------
+15.1.2023, 17:48:07 	 ER_BAD_FIELD_ERROR: Unknown column 'V.name' in 'field list'
+----------------------------
+15.1.2023, 17:48:08 	 ER_BAD_FIELD_ERROR: Unknown column 'V.name' in 'field list'
+----------------------------
+15.1.2023, 17:48:09 	 ER_BAD_FIELD_ERROR: Unknown column 'V.name' in 'field list'
+----------------------------
+15.1.2023, 17:48:10 	 ER_BAD_FIELD_ERROR: Unknown column 'V.name' in 'field list'
+----------------------------
+15.1.2023, 17:48:10 	 ER_BAD_FIELD_ERROR: Unknown column 'V.name' in 'field list'
+----------------------------
+15.1.2023, 18:12:36 	 ER_BAD_FIELD_ERROR: Unknown column 'mailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:12:37 	 ER_BAD_FIELD_ERROR: Unknown column 'mailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:14:13 	 ER_BAD_FIELD_ERROR: Unknown column 'MailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:14:14 	 ER_BAD_FIELD_ERROR: Unknown column 'MailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:14:15 	 ER_BAD_FIELD_ERROR: Unknown column 'MailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:14:16 	 ER_BAD_FIELD_ERROR: Unknown column 'MailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:15:41 	 ER_BAD_FIELD_ERROR: Unknown column 'MailAddress' in 'field list'
+----------------------------
+15.1.2023, 18:17:06 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:07 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:08 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:25 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:26 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:26 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:27 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:17:28 	 ER_BAD_FIELD_ERROR: Unknown column 'resortLocation' in 'field list'
+----------------------------
+15.1.2023, 18:47:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+15.1.2023, 18:47:59 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+15.1.2023, 18:48:00 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+15.1.2023, 18:55:28 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING userId, vacationId, 'follow successful' AS status;
+            )' at line 5
+----------------------------
+15.1.2023, 18:55:30 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'RETURNING userId, vacationId, 'follow successful' AS status;
+            )' at line 5
+----------------------------
+15.1.2023, 19:00:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+                WHERE(
+                    '30' = '2'
+  ...' at line 1
+----------------------------
+15.1.2023, 19:00:59 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+                WHERE(
+                    '30' = '2'
+  ...' at line 1
+----------------------------
+15.1.2023, 19:04:39 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+            WHERE vacationId = '30' AND userId = '2'' at line 1
+----------------------------
+15.1.2023, 19:04:41 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+            WHERE vacationId = '30' AND userId = '2'' at line 1
+----------------------------
+15.1.2023, 19:05:13 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+            WHERE vacationId = 30 AND userId = 2' at line 1
+----------------------------
+15.1.2023, 19:05:14 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(vacationId, userId)
+            WHERE vacationId = 30 AND userId = 2' at line 1
+----------------------------
+15.1.2023, 22:32:08 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 22:40:04 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:40:51 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:40:54 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:56 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:56 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:57 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:57 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:58 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:43:59 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:44:07 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:44:08 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:44:08 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:46:38 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:46:40 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+15.1.2023, 22:50:18 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 22:51:29 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 22:53:34 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 22:54:04 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:00:21 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:01:54 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:01:55 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:03:04 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:03:16 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:04:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:05:20 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:11:15 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:13:28 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:13:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:24 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:25 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:28 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:33 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:39 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:14:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:16:41 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:42 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:16:43 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?, ?, ?, ?, ?, ?) 
+    VALUES (
+    DEFAULT,
+    'undefined',
+    'undefin...' at line 2
+----------------------------
+15.1.2023, 23:18:21 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:19:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:19:52 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:20:14 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+15.1.2023, 23:20:22 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+16.1.2023, 17:50:34 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+16.1.2023, 17:54:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+16.1.2023, 17:56:50 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+16.1.2023, 18:58:31 	 Route /api/contacts not exist
+----------------------------
+16.1.2023, 19:00:44 	 Route /api/contacts not exist
+----------------------------
+16.1.2023, 20:12:34 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:12:35 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:12:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:12:35 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:12:35 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:12:39 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:12:39 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:12:39 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:12:39 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:12:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:28:18 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:28:18 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:28:18 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:28:18 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:28:18 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:32:57 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:32:57 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:32:57 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:32:57 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:32:57 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:32:59 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:32:59 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:32:59 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:32:59 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:33:00 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:33:04 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:33:04 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:33:04 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:33:04 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 20:33:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:54:39 	 Route /api/vacations/images/1000 not exist
+----------------------------
+16.1.2023, 20:54:39 	 Route /api/vacations/images/undefined not exist
+----------------------------
+16.1.2023, 20:54:39 	 Route /api/vacations/images/name not exist
+----------------------------
+16.1.2023, 20:54:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 20:54:39 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.jpg not exist
+----------------------------
+16.1.2023, 20:54:39 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1d not exist
+----------------------------
+16.1.2023, 21:11:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:11:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:11:54 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:11:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:11:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:11:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:12:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:12:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:12:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:12:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:12:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:12:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:12:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:12:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:12:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:12:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:12:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:12:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:12:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:12:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:12:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:12:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:12:38 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:12:38 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:14:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:14:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:14:59 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:14:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:15:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:15:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:15:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:15:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:15:04 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:15:04 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:15:07 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:15:07 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:15:07 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:15:07 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:15:07 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:15:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:16:52 	 Route /api/vacations/images/44c77823-2b1a-4d5b-92bd-93ad1de43c37.jpg not exist
+----------------------------
+16.1.2023, 21:17:39 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.jpg not exist
+----------------------------
+16.1.2023, 21:17:40 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.jpg not exist
+----------------------------
+16.1.2023, 21:17:45 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3 not exist
+----------------------------
+16.1.2023, 21:17:46 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3 not exist
+----------------------------
+16.1.2023, 21:17:54 	 Route /api/vacations/images not exist
+----------------------------
+16.1.2023, 21:18:01 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.j not exist
+----------------------------
+16.1.2023, 21:18:02 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.jpg not exist
+----------------------------
+16.1.2023, 21:18:04 	 Route /api/vacations/images/8df835a5-239e-4907-acc9-f23454547fb3.jpg not exist
+----------------------------
+16.1.2023, 21:18:32 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:18:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:18:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:18:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:18:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:18:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:23:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:23:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:23:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:23:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:23:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:23:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:23:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:23:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:23:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:23:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:23:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:23:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:31:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:31:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:31:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:31:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:31:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:31:33 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:31:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:31:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:31:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:31:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:31:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:31:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:31:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:31:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:31:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:31:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:31:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:31:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:31:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:31:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:31:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:31:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:31:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:31:45 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:32:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1000'
+----------------------------
+16.1.2023, 21:32:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\name'
+----------------------------
+16.1.2023, 21:32:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+16.1.2023, 21:32:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:32:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:32:26 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+16.1.2023, 21:33:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:33:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:33:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:33:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:33:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:33:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:40:04 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:40:04 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\44c77823-2b1a-4d5b-92bd-93ad1d'
+----------------------------
+16.1.2023, 21:41:50 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:41:53 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+16.1.2023, 21:42:06 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 17:30:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 17:31:16 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 17:32:11 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+17.1.2023, 22:42:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 22:43:03 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.'
+----------------------------
+17.1.2023, 22:43:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:27 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:29 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:30 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 22:43:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:07:16 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:07:19 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:07:22 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:07:23 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:24:20 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:24:20 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:24:23 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:24:23 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:24:24 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:24:24 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:24:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:24:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:35:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:35:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:35:57 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:35:57 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:35:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:35:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:36:00 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:36:00 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:36:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:36:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+17.1.2023, 23:37:28 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.jpg'
+----------------------------
+17.1.2023, 23:37:30 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.jpg'
+----------------------------
+17.1.2023, 23:37:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.png'
+----------------------------
+17.1.2023, 23:37:35 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.png'
+----------------------------
+17.1.2023, 23:37:38 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.jpg'
+----------------------------
+17.1.2023, 23:37:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424.jpg'
+----------------------------
+17.1.2023, 23:38:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 23:38:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 23:38:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:40 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:41 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:42 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:43 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:46 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:47 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:38:49 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454.jpg'
+----------------------------
+17.1.2023, 23:41:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+17.1.2023, 23:41:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:19:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:19:33 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:19:49 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:19:49 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:20:10 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:20:10 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:20:20 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:20:20 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:20:58 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:20:58 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:22:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:22:45 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:35:54 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:35:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:36:05 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:37:28 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:37:28 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 0:39:12 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 0:39:12 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:26:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:26:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:28:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:28:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:29:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:29:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:32:52 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:32:52 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:36:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:36:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:36:48 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:36:48 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:36:53 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:36:53 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:38:50 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:38:50 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:39:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:39:01 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:40:11 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\8df835a5-239e-4907-acc9-f23454'
+----------------------------
+18.1.2023, 2:40:11 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\6265cdc7-30b0-4ebb-8735-aa0424'
+----------------------------
+18.1.2023, 2:45:24 	 Route /api/followbaecfb42-f61f-4504-821e-492c7e342e71.jpg not exist
+----------------------------
+18.1.2023, 2:45:24 	 Route /api/followd8f79ed6-354d-4308-acb0-8b97c9a2a32c.jpg not exist
+----------------------------
+18.1.2023, 2:45:27 	 Route /api/follow/baecfb42-f61f-4504-821e-492c7e342e71.jpg not exist
+----------------------------
+18.1.2023, 2:45:27 	 Route /api/follow/d8f79ed6-354d-4308-acb0-8b97c9a2a32c.jpg not exist
+----------------------------
+18.1.2023, 3:13:12 	 Route /api/vacations//2 not exist
+----------------------------
+18.1.2023, 3:13:15 	 Route /api/vacations//1 not exist
+----------------------------
+18.1.2023, 17:56:42 	 Route /api/followers not exist
+----------------------------
+18.1.2023, 17:57:20 	 Invalid token
+----------------------------
+18.1.2023, 17:58:34 	 "userId" is required
+----------------------------
+18.1.2023, 17:58:46 	 "vacationId" is required
+----------------------------
+18.1.2023, 18:15:04 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 18:15:06 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 18:30:53 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:31:07 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:31:20 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:31:21 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:31:31 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:32:25 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:32:35 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:37:31 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:37:32 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:39:46 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:39:48 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:39:55 	 "userId" is required
+----------------------------
+18.1.2023, 18:40:01 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:45:36 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:45:37 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:45:51 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:45:52 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:45:53 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:47:34 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:47:35 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:47:36 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 18:48:10 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:08:38 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:08:51 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:08:56 	 Route /api/followers/1 not exist
+----------------------------
+18.1.2023, 19:09:53 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:09:55 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:10:29 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:10:30 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:12:03 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:12:04 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:13:11 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:13:44 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:13:46 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:13:48 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:13:49 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:13:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:15:31 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:15:50 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:15:54 	 "userId" is required
+----------------------------
+18.1.2023, 19:15:59 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:16:01 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:18:15 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:18:16 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:18:17 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:18:17 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:18:18 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:21:46 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:21:47 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:21:48 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:22:44 	 Route /api/followers/97 not exist
+----------------------------
+18.1.2023, 19:23:36 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:24:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:24:05 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:24:30 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:29:01 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:29:10 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:29:11 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:29:11 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:29:11 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:29:11 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 19:38:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:38:43 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:38:44 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:40:48 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:40:52 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:40:54 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:40:55 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:41:04 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:41:05 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:41:09 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:41:57 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:41:59 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:43:34 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:43:35 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 19:43:36 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 20:38:31 	 Route /api/vacations//1 not exist
+----------------------------
+18.1.2023, 20:38:35 	 Route /api/vacations//2 not exist
+----------------------------
+18.1.2023, 20:38:40 	 Route /api/vacations//2 not exist
+----------------------------
+18.1.2023, 20:41:17 	 Route /api/vacations//3 not exist
+----------------------------
+18.1.2023, 20:41:23 	 Route /api/vacations//4 not exist
+----------------------------
+18.1.2023, 20:42:04 	 Route /api/vacations//3 not exist
+----------------------------
+18.1.2023, 20:42:12 	 Route /api/vacations//1 not exist
+----------------------------
+18.1.2023, 20:42:32 	 Route /api/vacations//2 not exist
+----------------------------
+18.1.2023, 20:42:35 	 Route /api/vacations//4 not exist
+----------------------------
+18.1.2023, 20:55:48 	 Route /api/vacations//1 not exist
+----------------------------
+18.1.2023, 20:55:50 	 Route /api/vacations//2 not exist
+----------------------------
+18.1.2023, 20:57:15 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 20:57:19 	 Route /api/follow/ not exist
+----------------------------
+18.1.2023, 20:58:50 	 Invalid token
+----------------------------
+18.1.2023, 20:58:52 	 Invalid token
+----------------------------
+18.1.2023, 20:59:10 	 Invalid token
+----------------------------
+18.1.2023, 21:17:54 	 Invalid token
+----------------------------
+18.1.2023, 21:46:32 	 "userId" is required
+----------------------------
+18.1.2023, 21:46:37 	 "userId" is required
+----------------------------
+18.1.2023, 22:10:34 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.1.2023, 22:10:34 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.1.2023, 22:10:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.1.2023, 22:10:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+18.1.2023, 22:55:35 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 22:55:36 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+18.1.2023, 22:55:37 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+19.1.2023, 15:10:52 	 Invalid token
+----------------------------
+19.1.2023, 15:10:57 	 Invalid token
+----------------------------
+19.1.2023, 15:11:10 	 Invalid token
+----------------------------
+19.1.2023, 15:11:13 	 Invalid token
+----------------------------
+19.1.2023, 15:11:17 	 Invalid token
+----------------------------
+19.1.2023, 15:11:29 	 Invalid token
+----------------------------
+19.1.2023, 15:13:54 	 Route /api/follower/97 not exist
+----------------------------
+19.1.2023, 16:07:12 	 Invalid token
+----------------------------
+19.1.2023, 19:23:00 	 Invalid token
+----------------------------
+19.1.2023, 20:04:09 	 Incorrect username or password
+----------------------------
+19.1.2023, 20:04:18 	 Incorrect username or password
+----------------------------
+19.1.2023, 20:04:23 	 Incorrect username or password
+----------------------------
+19.1.2023, 20:40:34 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+19.1.2023, 20:40:42 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+19.1.2023, 20:40:50 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+20.1.2023, 17:29:02 	 Route /api/vacation not exist
+----------------------------
+20.1.2023, 18:25:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+20.1.2023, 18:25:07 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+20.1.2023, 21:09:18 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+20.1.2023, 21:09:57 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+20.1.2023, 22:48:21 	 Invalid token
+----------------------------
+20.1.2023, 22:48:24 	 Invalid token
+----------------------------
+20.1.2023, 22:48:28 	 Invalid token
+----------------------------
+20.1.2023, 22:48:30 	 Invalid token
+----------------------------
+20.1.2023, 22:48:51 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+20.1.2023, 22:48:55 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+20.1.2023, 22:49:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+20.1.2023, 22:51:32 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+20.1.2023, 22:52:43 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+20.1.2023, 22:53:06 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+20.1.2023, 22:53:09 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+20.1.2023, 22:53:15 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+20.1.2023, 22:53:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+20.1.2023, 22:53:39 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 16:55:11 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+23.1.2023, 16:55:21 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+23.1.2023, 16:55:46 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 16:56:14 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+23.1.2023, 16:56:15 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+23.1.2023, 16:56:31 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 16:57:13 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+23.1.2023, 16:57:19 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 16:59:08 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 16:59:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+23.1.2023, 16:59:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 17:07:56 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 17:08:09 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+23.1.2023, 17:08:13 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+23.1.2023, 17:48:43 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:48:50 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:48:58 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:49:14 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:50:13 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:52:19 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:52:54 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 17:55:01 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 18:11:37 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+23.1.2023, 19:30:26 	 Incorrect username or password
+----------------------------
+24.1.2023, 12:01:02 	 Invalid token
+----------------------------
+24.1.2023, 12:01:08 	 Invalid token
+----------------------------
+24.1.2023, 12:01:10 	 Invalid token
+----------------------------
+24.1.2023, 13:30:14 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:30:29 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:30:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:38:15 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:38:17 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:38:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+24.1.2023, 13:51:24 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`db-snowdogs`.`vacations`, CONSTRAINT `vacations_ibfk_1` FOREIGN KEY (`ResortId`) REFERENCES `resorts` (`ResortId`))
+----------------------------
+24.1.2023, 19:46:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 19:46:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 19:46:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 19:46:22 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 19:52:57 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 19:52:57 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:37:58 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:37:58 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:40:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:40:28 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:43:00 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 20:43:00 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+24.1.2023, 23:48:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+25.1.2023, 1:50:10 	 Invalid token
+----------------------------
+25.1.2023, 1:50:11 	 Invalid token
+----------------------------
+25.1.2023, 1:50:13 	 Invalid token
+----------------------------
+25.1.2023, 1:50:14 	 Invalid token
+----------------------------
+25.1.2023, 20:18:04 	 ER_BAD_FIELD_ERROR: Unknown column 'V.checkIn' in 'order clause'
+----------------------------
+25.1.2023, 20:18:06 	 ER_BAD_FIELD_ERROR: Unknown column 'V.checkIn' in 'order clause'
+----------------------------
+25.1.2023, 20:18:59 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+25.1.2023, 20:35:12 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\undefined'
+----------------------------
+25.1.2023, 21:10:24 	 Invalid token
+----------------------------
+25.1.2023, 21:10:25 	 Invalid token
+----------------------------
+25.1.2023, 21:10:28 	 Invalid token
+----------------------------
+25.1.2023, 21:10:29 	 Invalid token
+----------------------------
+25.1.2023, 21:10:33 	 You are not admin
+----------------------------
+25.1.2023, 21:10:34 	 You are not admin
+----------------------------
+25.1.2023, 21:10:36 	 You are not admin
+----------------------------
+25.1.2023, 21:10:37 	 You are not admin
+----------------------------
+25.1.2023, 21:10:40 	 You are not admin
+----------------------------
+25.1.2023, 21:10:51 	 Invalid token
+----------------------------
+25.1.2023, 21:10:55 	 You are not admin
+----------------------------
+25.1.2023, 21:10:56 	 You are not admin
+----------------------------
+25.1.2023, 21:10:57 	 You are not admin
+----------------------------
+25.1.2023, 21:10:59 	 You are not admin
+----------------------------
+25.1.2023, 21:11:00 	 You are not admin
+----------------------------
+25.1.2023, 21:11:01 	 You are not admin
+----------------------------
+25.1.2023, 21:11:26 	 Invalid token
+----------------------------
+25.1.2023, 21:11:36 	 Invalid token
+----------------------------
+25.1.2023, 21:11:57 	 Invalid token
+----------------------------
+25.1.2023, 21:11:59 	 Invalid token
+----------------------------
+25.1.2023, 21:11:59 	 Invalid token
+----------------------------
+25.1.2023, 21:11:59 	 Invalid token
+----------------------------
+25.1.2023, 21:11:59 	 Invalid token
+----------------------------
+25.1.2023, 21:12:42 	 Invalid token
+----------------------------
+25.1.2023, 21:12:45 	 You are not admin
+----------------------------
+25.1.2023, 21:12:50 	 You are not admin
+----------------------------
+25.1.2023, 21:12:52 	 You are not admin
+----------------------------
+25.1.2023, 22:15:16 	 You are not admin
+----------------------------
+25.1.2023, 22:15:16 	 You are not admin
+----------------------------
+25.1.2023, 22:15:29 	 Route /api/contacts/3 not exist
+----------------------------
+25.1.2023, 22:16:42 	 Route /api/contacts/3 not exist
+----------------------------
+25.1.2023, 22:23:35 	 You are not admin
+----------------------------
+25.1.2023, 22:23:35 	 You are not admin
+----------------------------
+25.1.2023, 22:24:01 	 You are not admin
+----------------------------
+25.1.2023, 22:24:11 	 You are not admin
+----------------------------
+25.1.2023, 22:24:12 	 You are not admin
+----------------------------
+25.1.2023, 22:24:22 	 You are not admin
+----------------------------
+25.1.2023, 22:25:02 	 You are not admin
+----------------------------
+25.1.2023, 22:25:02 	 You are not admin
+----------------------------
+25.1.2023, 22:25:11 	 You are not admin
+----------------------------
+25.1.2023, 22:25:11 	 You are not admin
+----------------------------
+25.1.2023, 22:25:30 	 You are not admin
+----------------------------
+25.1.2023, 22:25:30 	 You are not admin
+----------------------------
+25.1.2023, 22:27:21 	 You are not admin
+----------------------------
+25.1.2023, 22:27:21 	 You are not admin
+----------------------------
+25.1.2023, 22:33:27 	 You are not admin
+----------------------------
+25.1.2023, 22:33:28 	 You are not admin
+----------------------------
+25.1.2023, 22:33:45 	 Invalid token
+----------------------------
+25.1.2023, 22:33:46 	 Invalid token
+----------------------------
+25.1.2023, 22:33:47 	 Invalid token
+----------------------------
+25.1.2023, 22:33:50 	 Invalid token
+----------------------------
+25.1.2023, 22:34:06 	 You are not admin
+----------------------------
+25.1.2023, 22:34:11 	 You are not admin
+----------------------------
+25.1.2023, 22:34:12 	 You are not admin
+----------------------------
+25.1.2023, 22:34:14 	 You are not admin
+----------------------------
+25.1.2023, 22:34:15 	 You are not admin
+----------------------------
+25.1.2023, 22:34:17 	 You are not admin
+----------------------------
+25.1.2023, 22:34:19 	 You are not admin
+----------------------------
+25.1.2023, 22:34:21 	 You are not admin
+----------------------------
+25.1.2023, 22:34:22 	 You are not admin
+----------------------------
+25.1.2023, 22:34:46 	 You are not admin
+----------------------------
+25.1.2023, 22:34:47 	 You are not admin
+----------------------------
+25.1.2023, 22:34:49 	 You are not admin
+----------------------------
+25.1.2023, 22:35:09 	 Invalid token
+----------------------------
+25.1.2023, 22:35:10 	 Invalid token
+----------------------------
+25.1.2023, 22:35:15 	 You are not admin
+----------------------------
+25.1.2023, 22:35:17 	 You are not admin
+----------------------------
+25.1.2023, 22:35:17 	 You are not admin
+----------------------------
+25.1.2023, 22:35:19 	 You are not admin
+----------------------------
+25.1.2023, 22:35:27 	 You are not admin
+----------------------------
+25.1.2023, 22:35:29 	 You are not admin
+----------------------------
+25.1.2023, 22:35:30 	 You are not admin
+----------------------------
+25.1.2023, 23:05:55 	 You are not admin
+----------------------------
+25.1.2023, 23:05:55 	 You are not admin
+----------------------------
+25.1.2023, 23:06:05 	 You are not admin
+----------------------------
+25.1.2023, 23:06:05 	 You are not admin
+----------------------------
+25.1.2023, 23:06:14 	 You are not admin
+----------------------------
+25.1.2023, 23:06:14 	 You are not admin
+----------------------------
+25.1.2023, 23:08:34 	 Invalid token
+----------------------------
+25.1.2023, 23:08:35 	 Invalid token
+----------------------------
+25.1.2023, 23:08:42 	 You are not admin
+----------------------------
+25.1.2023, 23:08:45 	 You are not admin
+----------------------------
+25.1.2023, 23:08:48 	 You are not admin
+----------------------------
+25.1.2023, 23:14:03 	 You are not admin
+----------------------------
+25.1.2023, 23:34:57 	 Incorrect username or password
+----------------------------
+25.1.2023, 23:42:21 	 Invalid token
+----------------------------
+26.1.2023, 0:55:15 	 Invalid token
+----------------------------
+26.1.2023, 0:55:16 	 Invalid token
+----------------------------
+26.1.2023, 0:55:16 	 Invalid token
+----------------------------
+26.1.2023, 20:16:21 	 Invalid token
+----------------------------
+26.1.2023, 20:16:26 	 Invalid token
+----------------------------
+26.1.2023, 20:16:29 	 Invalid token
+----------------------------
+26.1.2023, 20:16:38 	 Invalid token
+----------------------------
+26.1.2023, 20:16:41 	 Invalid token
+----------------------------
+26.1.2023, 20:16:43 	 Invalid token
+----------------------------
+26.1.2023, 21:15:00 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:15:04 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:19:09 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:19:16 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:20:29 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:24:09 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:25:24 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:25:24 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:25:24 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:25:39 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+26.1.2023, 21:27:43 	 Incorrect username or password
+----------------------------
+26.1.2023, 21:27:57 	 ER_BAD_NULL_ERROR: Column 'Role' cannot be null
+----------------------------
+26.1.2023, 21:31:33 	 Invalid token
+----------------------------
+26.1.2023, 21:31:38 	 Invalid token
+----------------------------
+26.1.2023, 21:31:39 	 Invalid token
+----------------------------
+26.1.2023, 21:50:01 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 21:50:04 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 21:50:07 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 22:00:24 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:00:30 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:00:38 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:00:49 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:01:12 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:01:27 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:01:34 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 22:01:43 	 Incorrect username or password
+----------------------------
+26.1.2023, 22:06:01 	 "userId" is not allowed
+----------------------------
+26.1.2023, 22:12:38 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 22:12:40 	 "password" length must be at least 4 characters long
+----------------------------
+26.1.2023, 22:12:42 	 Incorrect username or password
+----------------------------
+27.1.2023, 1:09:04 	 "password" length must be at least 4 characters long
+----------------------------
+27.1.2023, 1:09:07 	 Incorrect username or password
+----------------------------
+27.1.2023, 1:44:00 	 You are not admin
+----------------------------
+27.1.2023, 1:44:06 	 You are not admin
+----------------------------
+27.1.2023, 2:11:01 	 "password" length must be at least 4 characters long
+----------------------------
+27.1.2023, 2:58:32 	 You are not admin
+----------------------------
+27.1.2023, 2:58:37 	 You are not admin
+----------------------------
+27.1.2023, 3:00:45 	 You are not admin
+----------------------------
+27.1.2023, 3:00:56 	 You are not admin
+----------------------------
+27.1.2023, 3:00:58 	 You are not admin
+----------------------------
+27.1.2023, 3:01:04 	 You are not admin
+----------------------------
+27.1.2023, 3:04:31 	 Invalid token
+----------------------------
+27.1.2023, 3:04:34 	 Invalid token
+----------------------------
+27.1.2023, 3:04:35 	 Invalid token
+----------------------------
+27.1.2023, 3:04:36 	 Invalid token
+----------------------------
+27.1.2023, 3:04:36 	 Invalid token
+----------------------------
+27.1.2023, 3:04:37 	 Invalid token
+----------------------------
+27.1.2023, 3:04:38 	 Invalid token
+----------------------------
+27.1.2023, 3:05:42 	 id 135 not exist
+----------------------------
+27.1.2023, 3:05:45 	 id 135 not exist
+----------------------------
+27.1.2023, 3:49:53 	 Route /api/followers/134 not exist
+----------------------------
+27.1.2023, 3:49:55 	 Route /api/followers/134 not exist
+----------------------------
+27.1.2023, 3:49:56 	 Route /api/followers/129 not exist
+----------------------------
+27.1.2023, 3:49:57 	 Route /api/followers/129 not exist
+----------------------------
+27.1.2023, 3:50:01 	 Route /api/followers/134 not exist
+----------------------------
+27.1.2023, 4:02:37 	 id 134 not exist
+----------------------------
+27.1.2023, 4:02:38 	 id 134 not exist
+----------------------------
+27.1.2023, 4:07:39 	 id 104 not exist
+----------------------------
+27.1.2023, 4:07:42 	 id 104 not exist
+----------------------------
+27.1.2023, 4:10:15 	 Invalid token
+----------------------------
+27.1.2023, 4:10:17 	 Invalid token
+----------------------------
+27.1.2023, 4:10:19 	 Invalid token
+----------------------------
+27.1.2023, 4:10:22 	 Invalid token
+----------------------------
+27.1.2023, 4:10:45 	 id 129 not exist
+----------------------------
+27.1.2023, 4:27:37 	 id 133 not exist
+----------------------------
+27.1.2023, 4:27:39 	 id 102 not exist
+----------------------------
+27.1.2023, 17:39:52 	 Invalid token
+----------------------------
+27.1.2023, 17:39:55 	 Invalid token
+----------------------------
+27.1.2023, 17:39:57 	 Invalid token
+----------------------------
+28.1.2023, 1:18:24 	 "password" length must be at least 4 characters long
+----------------------------
+28.1.2023, 1:18:28 	 Incorrect username or password
+----------------------------
+28.1.2023, 1:18:53 	 Invalid token
+----------------------------
+28.1.2023, 1:18:53 	 Invalid token
+----------------------------
+28.1.2023, 2:12:27 	 id 104 not exist
+----------------------------
+28.1.2023, 2:12:29 	 id 102 not exist
+----------------------------
+28.1.2023, 2:12:32 	 id 104 not exist
+----------------------------
+28.1.2023, 2:12:33 	 id 102 not exist
+----------------------------
+28.1.2023, 2:12:35 	 id 134 not exist
+----------------------------
+28.1.2023, 2:50:47 	 "password" length must be at least 4 characters long
+----------------------------
+28.1.2023, 2:51:18 	 You are not admin
+----------------------------
+28.1.2023, 2:51:21 	 You are not admin
+----------------------------
+28.1.2023, 2:51:22 	 You are not admin
+----------------------------
+28.1.2023, 2:51:22 	 You are not admin
+----------------------------
+28.1.2023, 2:51:23 	 You are not admin
+----------------------------
+28.1.2023, 2:54:27 	 You are not admin
+----------------------------
+28.1.2023, 2:54:28 	 You are not admin
+----------------------------
+28.1.2023, 2:54:29 	 You are not admin
+----------------------------
+28.1.2023, 2:54:31 	 You are not admin
+----------------------------
+28.1.2023, 2:55:30 	 You are not admin
+----------------------------
+28.1.2023, 2:55:33 	 You are not admin
+----------------------------
+28.1.2023, 3:15:05 	 Invalid token
+----------------------------
+28.1.2023, 3:15:05 	 Invalid token
+----------------------------
+28.1.2023, 3:56:43 	 id 134 not exist
+----------------------------
+28.1.2023, 3:56:46 	 id 134 not exist
+----------------------------
+28.1.2023, 3:56:48 	 id 134 not exist
+----------------------------
+28.1.2023, 3:57:56 	 id 134 not exist
+----------------------------
+28.1.2023, 4:02:58 	 id 134 not exist
+----------------------------
+28.1.2023, 4:04:16 	 id 102 not exist
+----------------------------
+28.1.2023, 4:30:38 	 id 136 not exist
+----------------------------
+28.1.2023, 20:39:23 	 id 134 not exist
+----------------------------
+28.1.2023, 20:39:26 	 id 104 not exist
+----------------------------
+28.1.2023, 20:39:27 	 Invalid token
+----------------------------
+28.1.2023, 20:39:30 	 Invalid token
+----------------------------
+28.1.2023, 20:39:53 	 id 135 not exist
+----------------------------
+28.1.2023, 20:39:56 	 id 102 not exist
+----------------------------
+28.1.2023, 20:39:59 	 id 134 not exist
+----------------------------
+28.1.2023, 20:41:53 	 id 134 not exist
+----------------------------
+28.1.2023, 20:41:54 	 id 104 not exist
+----------------------------
+28.1.2023, 20:42:02 	 id 104 not exist
+----------------------------
+28.1.2023, 20:42:39 	 id 96 not exist
+----------------------------
+28.1.2023, 20:42:40 	 id 134 not exist
+----------------------------
+28.1.2023, 20:48:01 	 id 102 not exist
+----------------------------
+28.1.2023, 20:50:49 	 id 96 not exist
+----------------------------
+28.1.2023, 20:50:58 	 id 134 not exist
+----------------------------
+28.1.2023, 20:54:30 	 id 134 not exist
+----------------------------
+28.1.2023, 21:08:44 	 id 104 not exist
+----------------------------
+28.1.2023, 21:08:45 	 id 134 not exist
+----------------------------
+28.1.2023, 21:10:46 	 id 136 not exist
+----------------------------
+28.1.2023, 21:11:01 	 id 126 not exist
+----------------------------
+28.1.2023, 21:20:24 	 id 134 not exist
+----------------------------
+28.1.2023, 21:20:26 	 id 104 not exist
+----------------------------
+28.1.2023, 21:28:21 	 Invalid token
+----------------------------
+28.1.2023, 21:28:24 	 Invalid token
+----------------------------
+28.1.2023, 21:28:27 	 Invalid token
+----------------------------
+28.1.2023, 21:28:30 	 Invalid token
+----------------------------
+28.1.2023, 21:28:30 	 Invalid token
+----------------------------
+28.1.2023, 21:28:30 	 Invalid token
+----------------------------
+28.1.2023, 21:28:34 	 Invalid token
+----------------------------
+28.1.2023, 21:28:35 	 Invalid token
+----------------------------
+28.1.2023, 22:24:57 	 id 136 not exist
+----------------------------
+28.1.2023, 23:43:41 	 id 126 not exist
+----------------------------
+29.1.2023, 0:26:07 	 Incorrect username or password
+----------------------------
+29.1.2023, 0:26:53 	 Invalid token
+----------------------------
+29.1.2023, 0:26:58 	 Invalid token
+----------------------------
+29.1.2023, 0:26:59 	 Invalid token
+----------------------------
+29.1.2023, 0:27:01 	 Invalid token
+----------------------------
+29.1.2023, 0:27:03 	 Invalid token
+----------------------------
+29.1.2023, 0:27:04 	 Invalid token
+----------------------------
+29.1.2023, 0:27:58 	 Invalid token
+----------------------------
+29.1.2023, 0:28:00 	 Invalid token
+----------------------------
+29.1.2023, 0:28:01 	 Invalid token
+----------------------------
+29.1.2023, 0:28:04 	 Invalid token
+----------------------------
+29.1.2023, 0:28:06 	 Invalid token
+----------------------------
+29.1.2023, 0:28:08 	 Invalid token
+----------------------------
+29.1.2023, 0:28:08 	 Invalid token
+----------------------------
+29.1.2023, 0:28:10 	 Invalid token
+----------------------------
+29.1.2023, 0:28:11 	 Invalid token
+----------------------------
+29.1.2023, 0:28:14 	 Invalid token
+----------------------------
+29.1.2023, 0:28:17 	 Invalid token
+----------------------------
+29.1.2023, 0:35:53 	 id 102 not exist
+----------------------------
+29.1.2023, 0:35:59 	 id 102 not exist
+----------------------------
+29.1.2023, 0:36:00 	 id 102 not exist
+----------------------------
+29.1.2023, 0:36:03 	 id 102 not exist
+----------------------------
+29.1.2023, 0:36:08 	 id 133 not exist
+----------------------------
+29.1.2023, 0:36:10 	 id 126 not exist
+----------------------------
+29.1.2023, 0:36:17 	 id 136 not exist
+----------------------------
+29.1.2023, 0:49:52 	 You are not admin
+----------------------------
+29.1.2023, 0:49:58 	 You are not admin
+----------------------------
+29.1.2023, 1:21:50 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:21:52 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:21:55 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:21:57 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:22:04 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:22:53 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:22:56 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:24:51 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:24:54 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:18 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:20 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:20 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:20 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:20 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:32 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:27:42 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:30:37 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 1:43:16 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 1:43:25 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 1:46:12 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 1:46:14 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 1:46:32 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:46:33 	 Incorrect username or password
+----------------------------
+29.1.2023, 1:52:06 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:52:15 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:52:31 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:55:24 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:56:35 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:56:40 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:57:12 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:57:35 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 1:57:37 	 Cannot read properties of null (reading '0')
+----------------------------
+29.1.2023, 2:01:18 	 Incorrect username or password
+----------------------------
+29.1.2023, 2:01:18 	 Incorrect username or password
+----------------------------
+29.1.2023, 2:01:26 	 Incorrect username or password
+----------------------------
+29.1.2023, 2:39:22 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:01:35 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:01:49 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:01:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:01:55 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:03:29 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:07:04 	 Route /api/auth/login/ not exist
+----------------------------
+29.1.2023, 3:11:06 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:11:06 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:13:52 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:21:35 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:21:36 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:21:37 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:21:46 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:21:49 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:22:21 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:23:35 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:23:37 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:23:38 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:23:43 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:24:49 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:24:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:26:12 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:27:32 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:27:37 	 Incorrect username or password
+----------------------------
+29.1.2023, 3:29:49 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:29:50 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:29:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:29:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:29:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3680f7fe-2f7e-4853-a189-09cfd2bf91d7.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\fc4c29ae-b3f0-4928-8a5e-5ff4c52c270c.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1d0c6b65-afdb-4ae4-89ec-7f7a5e5a62ff.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3b976abc-6c87-4dba-b246-f8604f30b3a6.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\63df0dc3-af28-4c50-9257-accb5d35f793.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\9f6ba5b6-3b4c-4a21-ada5-305e742e6ecf.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\ce13cf7d-f36a-4001-a148-9abdc28231e3.jpg'
+----------------------------
+29.1.2023, 3:40:25 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\4b701d35-4aba-4116-b6c1-ad2c4b303848.jpg'
+----------------------------
+29.1.2023, 3:40:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\f9627ac3-7844-4a92-b8a6-e61fb05904f6.jpg'
+----------------------------
+29.1.2023, 3:40:26 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\83eccf7d-3eb5-4f69-a416-f2f7197df735.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\fc4c29ae-b3f0-4928-8a5e-5ff4c52c270c.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3680f7fe-2f7e-4853-a189-09cfd2bf91d7.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1d0c6b65-afdb-4ae4-89ec-7f7a5e5a62ff.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\63df0dc3-af28-4c50-9257-accb5d35f793.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\9f6ba5b6-3b4c-4a21-ada5-305e742e6ecf.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3b976abc-6c87-4dba-b246-f8604f30b3a6.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\ce13cf7d-f36a-4001-a148-9abdc28231e3.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\4b701d35-4aba-4116-b6c1-ad2c4b303848.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\f9627ac3-7844-4a92-b8a6-e61fb05904f6.jpg'
+----------------------------
+29.1.2023, 3:40:36 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\83eccf7d-3eb5-4f69-a416-f2f7197df735.jpg'
+----------------------------
+29.1.2023, 15:00:47 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\fc4c29ae-b3f0-4928-8a5e-5ff4c52c270c.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3680f7fe-2f7e-4853-a189-09cfd2bf91d7.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1d0c6b65-afdb-4ae4-89ec-7f7a5e5a62ff.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\63df0dc3-af28-4c50-9257-accb5d35f793.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3b976abc-6c87-4dba-b246-f8604f30b3a6.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\9f6ba5b6-3b4c-4a21-ada5-305e742e6ecf.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\ce13cf7d-f36a-4001-a148-9abdc28231e3.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\4b701d35-4aba-4116-b6c1-ad2c4b303848.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\f9627ac3-7844-4a92-b8a6-e61fb05904f6.jpg'
+----------------------------
+29.1.2023, 15:12:55 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\83eccf7d-3eb5-4f69-a416-f2f7197df735.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\fc4c29ae-b3f0-4928-8a5e-5ff4c52c270c.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3680f7fe-2f7e-4853-a189-09cfd2bf91d7.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1d0c6b65-afdb-4ae4-89ec-7f7a5e5a62ff.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\63df0dc3-af28-4c50-9257-accb5d35f793.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3b976abc-6c87-4dba-b246-f8604f30b3a6.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\9f6ba5b6-3b4c-4a21-ada5-305e742e6ecf.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\ce13cf7d-f36a-4001-a148-9abdc28231e3.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\4b701d35-4aba-4116-b6c1-ad2c4b303848.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\f9627ac3-7844-4a92-b8a6-e61fb05904f6.jpg'
+----------------------------
+29.1.2023, 15:13:34 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\83eccf7d-3eb5-4f69-a416-f2f7197df735.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\fc4c29ae-b3f0-4928-8a5e-5ff4c52c270c.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3680f7fe-2f7e-4853-a189-09cfd2bf91d7.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\1d0c6b65-afdb-4ae4-89ec-7f7a5e5a62ff.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\63df0dc3-af28-4c50-9257-accb5d35f793.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\3b976abc-6c87-4dba-b246-f8604f30b3a6.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\9f6ba5b6-3b4c-4a21-ada5-305e742e6ecf.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\ce13cf7d-f36a-4001-a148-9abdc28231e3.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\4b701d35-4aba-4116-b6c1-ad2c4b303848.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\f9627ac3-7844-4a92-b8a6-e61fb05904f6.jpg'
+----------------------------
+29.1.2023, 15:13:37 	 ENOENT: no such file or directory, stat 'C:\Users\user\Desktop\SnowDogs\Backend\src\1-assets\images\83eccf7d-3eb5-4f69-a416-f2f7197df735.jpg'
+----------------------------
+29.1.2023, 15:15:53 	 Route /api/contacts/15 not exist
+----------------------------
+29.1.2023, 15:15:58 	 Route /api/contacts/8 not exist
+----------------------------
+29.1.2023, 15:16:01 	 Route /api/contacts/5 not exist
+----------------------------
+29.1.2023, 15:19:33 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:20:13 	 Route /api/contacts/15 not exist
+----------------------------
+29.1.2023, 15:24:13 	 Route /api/contacts/5 not exist
+----------------------------
+29.1.2023, 15:24:16 	 Route /api/contacts/8 not exist
+----------------------------
+29.1.2023, 15:24:23 	 Route /api/contacts/15 not exist
+----------------------------
+29.1.2023, 15:27:27 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+29.1.2023, 15:27:38 	 ER_ROW_IS_REFERENCED_2: Cannot delete or update a parent row: a foreign key constraint fails (`db-snowdogs`.`followers`, CONSTRAINT `followers_ibfk_1` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`vacationId`))
+----------------------------
+29.1.2023, 15:50:35 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:51:23 	 "username" length must be at least 4 characters long
+----------------------------
+29.1.2023, 15:52:08 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:52:09 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:53:15 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:53:16 	 Incorrect username or password
+----------------------------
+29.1.2023, 15:53:24 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:19:14 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:19:34 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:19:36 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:19:36 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:19:36 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:20:38 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:20:47 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:21:56 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:26:41 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:29:06 	 The "key" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, DataView, KeyObject, or CryptoKey. Received undefined
+----------------------------
+29.1.2023, 16:29:11 	 The "key" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, DataView, KeyObject, or CryptoKey. Received undefined
+----------------------------
+29.1.2023, 16:29:22 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:29:22 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:36:58 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:38:20 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:41:25 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:41:31 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:41:35 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:42:07 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:42:59 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:43:09 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:43:42 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:43:45 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:43:49 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:44:30 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:44:39 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:46:18 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:46:25 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:46:29 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:46:40 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:47:42 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:53:34 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:53:57 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:53:58 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:54:03 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:54:28 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:54:50 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:55:06 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:55:08 	 "password" length must be less than or equal to 40 characters long
+----------------------------
+29.1.2023, 16:57:08 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:57:09 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:57:10 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:57:10 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:57:10 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:57:10 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:58:27 	 Incorrect username or password
+----------------------------
+29.1.2023, 16:58:37 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:00:00 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:00:22 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:01:30 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:08:15 	 "username" length must be at least 4 characters long
+----------------------------
+29.1.2023, 17:08:37 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:08:41 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:08:48 	 Incorrect username or password
+----------------------------
+29.1.2023, 17:10:15 	 "username" length must be at least 4 characters long
+----------------------------
+29.1.2023, 17:17:35 	 Invalid token
+----------------------------
+29.1.2023, 17:17:37 	 Invalid token
+----------------------------
+29.1.2023, 17:17:38 	 Invalid token
+----------------------------
+29.1.2023, 20:06:35 	 Route /api/userVacations/ not exist
+----------------------------
+29.1.2023, 20:06:35 	 Route /api/userVacations/ not exist
+----------------------------
+29.1.2023, 20:06:36 	 Route /api/userVacations/ not exist
+----------------------------
+29.1.2023, 20:06:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:36 	 Route /api/userVacations/ not exist
+----------------------------
+29.1.2023, 20:06:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:37 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:37 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:06:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:07:58 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+29.1.2023, 20:07:58 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------

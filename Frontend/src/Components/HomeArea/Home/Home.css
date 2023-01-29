@@ -1,0 +1,65 @@
+
+
+.Home  {
+    display: block;
+    position: relative;
+    height: 100%;
+    background-image: -webkit-linear-gradient(rgb(63, 63, 63),rgb(229, 229, 229));
+}
+
+.Home .CategoryCard {
+    width: 40%;
+    font-family: Segoe Print;
+    display: inline-flex;
+    justify-content: center;
+    display: inline-block;
+    background-color: rgb(210, 207, 207);
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+
+.Home h2{
+    text-shadow: 1px 1px rgb(110, 110, 110);
+    text-align: center;
+    color: rgb(7, 5, 5);
+    font-family:"Impact";
+    font-size: 50px;
+}
+
+.Home  .homePagePhotos{
+    max-width: 70%;
+	background-color: aliceblue;
+    width: 69%;
+    margin-left: 0;  
+    border-radius: 25px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+
+
+}
+
+.Home .categoryPhotos{
+    margin-top: 2%;
+    max-height: 90px;
+    min-height: 90px;
+	background-color: aliceblue;
+    max-width: 40%;
+    min-width: 40%;
+    width: auto;
+    margin-left: 0;  
+    border-radius: 25px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+.Home .description{
+    text-shadow: 1px 1px rgb(19, 19, 19);
+    text-align: center;
+    color: rgb(7, 5, 5);
+    font-family:"Impact";
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}

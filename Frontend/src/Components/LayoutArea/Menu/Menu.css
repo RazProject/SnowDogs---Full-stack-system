@@ -1,0 +1,95 @@
+.Menu  {
+  background:rgb(229, 229, 229);
+  color:#000;
+  border-top:2px solid #060606;
+  border-right:2px solid #101010;
+  border-bottom:2px solid #040404;
+  border-left:2px solid #121212;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  }
+
+
+
+
+
+.Menu  > .links{
+  margin-top: 1%;
+  color: rgb(57, 29, 1);
+  background-color: rgb(171, 168, 168);
+  border-radius: 4px;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 24%;
+  text-underline-offset: none;
+  text-underline-position: none;
+  -ms-text-underline-position: none;
+  min-height: 44px;
+  min-width: 10px;
+  border-top:2px solid #000000;
+  border-right:2px solid #000000;
+  border-bottom:2px solid #000000;
+  border-left:2px solid #000000;
+  
+
+}
+
+.Menu > .links:hover {
+  background:#a37666;
+  color:rgb(216, 13, 13);
+  border-top:2px solid #815444;
+  border-right:2px solid #c59888;
+  border-bottom:2px solid #c59888;
+  border-left:2px solid #815444;
+  }
+
+/* .Menu > .links {
+  width: 24%;
+
+  padding: 9px 20px 8px;
+  position: relative;
+  border-radius: 4px;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+
+
+  text-decoration:none;
+  padding:5px 21px;
+  background:#5F3222;
+  color:#eee;
+  float:left;
+  text-align:center;
+
+  }
+  
+  .Menu > .links:hover {
+  background:#a37666;
+  color:#000;
+  border-top:2px solid #815444;
+  border-right:2px solid #c59888;
+  border-bottom:2px solid #c59888;
+  border-left:2px solid #815444;
+  }
+
+
+
+
+.Menu > .NavLink:hover,
+.Menu > .NavLink:focus {
+  opacity: .75;
+}
+	
+
+ */

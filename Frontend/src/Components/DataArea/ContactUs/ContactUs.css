@@ -1,0 +1,91 @@
+
+.ContactUs  {
+  background:rgb(63, 63, 63);
+  color:#000;
+  border-top:2px solid #060606;
+  border-right:2px solid #101010;
+  border-bottom:2px solid #040404;
+  border-left:2px solid #121212;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding: 20px;
+  }
+
+
+.ContactUs label{
+    width: 100%;
+    margin: auto;
+    /* border: 1px solid; */
+    /* border-radius: 20px; */
+    /* background-color: rgb(229, 229, 229); */
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.ContactUs input, .ContactUs select{
+    border: 3px solid;
+    border-radius: 20px;
+    background-color: rgb(172, 172, 172);
+    text-align: center;
+    color:rgb(0, 0, 0);
+
+}
+
+
+.ContactUs button {
+    background-color: rgb(39, 38, 38);
+    color:rgb(47, 166, 29);
+    width: 40%;
+    border-radius: 20px;
+}
+
+.ContactUs button:hover {
+    background-color: rgb(12, 217, 40);
+    color:whitesmoke;
+}
+
+
+.ContactUs input, .ContactUs select, .ContactUs textarea {
+    width: 65%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+
+.ContactUs form {
+  width: 40%;
+    height: auto;
+    min-height: 400px;
+    /* text-align: left; */
+    margin: auto;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(204, 204, 204);
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }

@@ -1,0 +1,36 @@
+.List  {
+    background:rgb(63, 63, 63);
+    color:#000;
+    border-top:2px solid #060606;
+    border-right:2px solid #101010;
+    border-bottom:2px solid #040404;
+    border-left:2px solid #121212;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    }
+
+.List > .ProductList > div  {
+    border: 1px solid rgb(4, 41, 4);
+    padding: 10px;
+    margin: 20px;
+    display: inline-flex;
+    text-align: left;
+    background-image: linear-gradient(90deg, rgb(101, 103, 101), rgb(198, 196, 196));
+    border-radius: 25px;
+}
+
+
+.List> label {
+    font-weight: bold;
+    text-decoration: underline;
+    color: whitesmoke;
+}
+
+.List> select {
+    margin: 40px;
+    background: rgba(161, 42, 42, 0.3);
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(9, 2, 2, 0.4);
+    width: 50%;
+    margin: auto;
+  }
